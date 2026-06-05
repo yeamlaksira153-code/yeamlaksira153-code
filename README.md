@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top;">
 
 Hi there 👋 I'm **Yeamlaksira Demeke**
 
@@ -14,8 +14,8 @@ I'm currently looking for an internship where I can contribute to meaningful sof
 
    </td>
 
-   <td style="width: 40%; text-align: center; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/69c38722-79fa-4a5e-b5e3-bab6830409c3" style="width: 100%; border-radius: 10px;" />
+   <td style="width: 50%; text-align: center; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/69c38722-79fa-4a5e-b5e3-bab6830409c3" style="width: 100%; max-width: 500px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
