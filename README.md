@@ -1,20 +1,41 @@
-## Hi there 👋
-
-<table style="width: 100%; border: none;">
+Hi there 👋
+<table>
   <tr>
-    <td style="width: 50%; vertical-align: middle; padding-right: 20px; border: none; word-wrap: break-word; overflow-wrap: break-word;">
+    <td style="vertical-align: top; padding-right: 20px;">
 
-Hi there 👋 I'm **Yeamlaksira Demeke**
+ I'm **Yeamlaksira Demeke**
 
-I'm a final‑year Computer Science student who enjoys building complete, functional systems from intuitive front‑end interfaces to reliable backend logic. My work focuses on creating real-world app[...]
+ a final‑year Computer Science student who enjoys building complete, functional systems from intuitive front‑end interfaces to reliable backend logic.
 
-I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that perfo[...]
-
-I'm currently looking for an internship where I can contribute to meaningful software development work while continuing to grow my technical expertise.
-
+   </td>
+    <td style="width: 380px; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/69c38722-79fa-4a5e-b5e3-bab6830409c3"
+           style="width: 100%; border-radius: 10px;" />
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle; border: none;">
-      <img src="https://github.com/user-attachments/assets/69c38722-79fa-4a5e-b5e3-bab6830409c3" style="width: 100%; max-width: 400px; height: auto; border-radius: 10px;" /> 
-    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+
+My work focuses on creating real-world applications using Java, C#, JavaScript, HTML, PHP, MySQL, and modern web technologies.
+### 🛠️ Technologies I Use
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that performs well and feels natural to use.
+
+Whether it’s a full‑stack marketplace, a management system, or a business website, I build with clarity, scalability, and long‑term usability in mind.
+
+I’m currently looking for an internship where I can contribute to meaningful software development work while continuing to grow my technical expertise.
+
+  </td>
   </tr>
 </table>
