@@ -4,13 +4,13 @@
   <tr>
     <td style="width: 50%; vertical-align: middle; padding-right: 20px; border: none;">
 
-**Yeamlaksira Demeke**
+Hi there 👋 I'm **Yeamlaksira Demeke**
 
-Final-year Computer Science student building complete, functional systems from intuitive front-end interfaces to reliable backend logic. 
+I'm a final‑year Computer Science student who enjoys building complete, functional systems from intuitive front‑end interfaces to reliable backend logic. My work focuses on creating real-world applications that solve actual problems.
 
-Strong foundation in object-oriented programming and practical system design. I enjoy turning ideas into performant solutions.
+I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that performs reliably and scales well.
 
-Currently seeking an internship to contribute to meaningful software development work.
+I'm currently looking for an internship where I can contribute to meaningful software development work while continuing to grow my technical expertise.
 
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle; border: none;">
