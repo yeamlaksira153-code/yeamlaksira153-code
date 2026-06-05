@@ -34,7 +34,7 @@ I approach development with a strong foundation in object‑oriented programming
 
 Whether it’s a full‑stack marketplace, a management system, or a business website, I build with clarity, scalability, and long‑term usability in mind.
 
-I’m currently looking for an internship where I can contribute to meaningful software development work while continuing to grow my technical expertise.
+I’m currently looking for an internship and junior roles where I can contribute to meaningful software development work while continuing to grow my technical expertise.
 
   </td>
   </tr>
