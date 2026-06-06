@@ -31,8 +31,6 @@ My work focuses on creating real-world applications using Java, C#, JavaScript, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Notepad++_Logo.svg" width="40" />
-
 </p>
 
 I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that performs well and feels natural to use.
