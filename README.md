@@ -5,7 +5,7 @@ Hi there 👋
 
  I'm **Yeamlaksira Demeke**
 
- a final‑year Computer Science student who enjoys building complete, functional systems from intuitive front‑end interfaces to reliable backend logic.
+A final‑year Computer Science student who enjoys building modern, responsive websites and working with data through SQL and Excel.
 
    </td>
     <td style="width: 380px; vertical-align: top;">
@@ -17,6 +17,8 @@ Hi there 👋
 <table>
   <tr>
     <td>
+I’m currently seeking internship and junior opportunities where I can contribute to meaningful software development and data analysis work while continuing to grow my technical expertise.
+    
 
 My work focuses on creating real-world applications using Java, C#, JavaScript, HTML, PHP, MySQL, and modern web technologies.
 ### 🛠️ Technologies I Use
@@ -28,13 +30,15 @@ My work focuses on creating real-world applications using Java, C#, JavaScript, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Notepad++_Logo.svg" width="40" />
+
 </p>
 
 I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that performs well and feels natural to use.
 
-Whether it’s a full‑stack marketplace, a management system, or a business website, I build with clarity, scalability, and long‑term usability in mind.
-
-I’m currently looking for an internship and junior roles where I can contribute to meaningful software development work while continuing to grow my technical expertise.
+I also work with local businesses to design and develop their websites. One example is here: 
+https://www.icingfamily.co.za
 
   </td>
   </tr>
