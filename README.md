@@ -17,7 +17,7 @@ A final‑year Computer Science student who enjoys building modern, responsive w
 <table>
   <tr>
     <td>
-I’m currently seeking internship and junior opportunities where I can contribute to meaningful software development and data analysis work while continuing to grow my technical expertise.
+I’m currently seeking internship and junior position work opportunities where I can contribute to meaningful software development and data analysis work while continuing to grow my technical expertise.
     
 
 My work focuses on creating real-world applications using Java, C#, JavaScript, HTML, PHP, MySQL, and modern web technologies.
