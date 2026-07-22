@@ -35,8 +35,8 @@ My work focuses on creating real-world applications using Java, C#, JavaScript, 
 
 I approach development with a strong foundation in object‑oriented programming and practical system design. I enjoy taking an idea, structuring it properly, and turning it into a solution that performs well and feels natural to use.
 
-I also work with local businesses to design and develop their websites. One example is here: 
-https://www.icingfamily.co.za
+I also work with local businesses to design and develop their websites. check out some of my work here: 
+https://www.invenova.tech
 
   </td>
   </tr>
